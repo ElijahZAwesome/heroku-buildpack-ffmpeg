@@ -7,7 +7,7 @@ indent() {
 echo "-----> Install ffmpeg"
 BUILD_DIR=$1
 VENDOR_DIR="vendor"
-DOWNLOAD_URL="http://ejb.webutu.com/ffmpeg.tar.gz"
+DOWNLOAD_URL="http://ejb.x10host.com/ffmpeg.tar.gz"
 
 echo "DOWNLOAD_URL = " $DOWNLOAD_URL | indent
 
